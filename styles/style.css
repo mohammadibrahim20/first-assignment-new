@@ -98,7 +98,7 @@
   }
 
   .failure-container ul{
-    list-style-image: url("check-solid.svg");
+    list-style-image: url("../images/icons/check-solid.svg");
     padding-top: 10px;
   }
 
